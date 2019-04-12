@@ -1,2 +1,2 @@
-��y l� ?ng d?ng d? b�o th?i ti?t. 
-C� th? xem th?i ti?t hi?n t?i v� c�c ng�y, gi? trong ng�y v� trong tu?n. C� th? t�m ki?m m?t s? v? tr� kh�c ? trong nu?c.
+Đây là ứng dụng dự báo thời tiết
+Có thể xem thời tiết hiện tại và các ngày, giờ trong ngày và trong tuần. Có thể tìm kiếm một số vị trí khác.
